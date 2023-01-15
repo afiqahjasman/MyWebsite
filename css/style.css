@@ -1,0 +1,112 @@
+div
+{
+    text-align: center;
+}
+
+h1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: B7EAC2;
+}
+
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: 85C994;
+}
+
+h3
+{
+    text-align: center;
+    color: #be8c63;
+}
+
+code
+{
+    text-align: center;
+    color: EA3662;
+}
+
+h4
+{
+    text-align: center;
+    color: beige;
+}
+
+design
+{
+    font-family: cursive;
+    color: 97495C;
+}
+
+wel
+{
+    color: white;
+}
+
+name
+{
+    color: yellow;
+}
+
+text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: 5f8d43;
+}
+
+text2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: CEE8D4;
+}
+
+family
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:visited
+{
+    color: black ;
+    text-decoration: none;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a:hover
+{
+    color: grey;
+    text-decoration: underline;
+}
+
+option
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(182, 46, 173);
+}
+
+pattern
+{
+    text-align: center;
+}
+
+.column
+{
+    float: left;
+    width: 30%;
+    padding: 5px;
+}
+
+.row::after
+{
+    content:"";
+    clear: both;
+    display: table;
+}
